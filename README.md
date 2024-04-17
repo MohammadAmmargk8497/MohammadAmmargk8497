@@ -1,3 +1,10 @@
+
+<p align=”center”>
+<img width=”200" height=”200" src=”https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/95de2b74-4935-458a-bea2-0df4374c1cc6" alt=”my banner”>
+</p>
+
+
+
 ### Hi there 👋
 
 
