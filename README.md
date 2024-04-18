@@ -15,7 +15,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently Rediscovering Deep Learning from Scratch
-- 👯 I’m looking to collaborate on anything that deals with AI and Robots, I am actively seeking Thesis based masters position in AI/Autonomous Robotics <img align="right" width="100" height="100" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/8641ace6-d379-4c47-8c37-c3e8d3fc60a1">
+- 👯 I’m looking to collaborate on anything that deals with AI and Robots, I am actively seeking Thesis based masters position in AI/Autonomous Robotics <img align="right" width="500" height="281" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/8641ace6-d379-4c47-8c37-c3e8d3fc60a1">
 - 🤔 I’m looking for help with SLAM
 - 💬 Ask me about CNNs
 - 📫 How to reach me: ammargk8497@gmail.com
