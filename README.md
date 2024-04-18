@@ -22,7 +22,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got a D in DBMS and I hate that subject
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAmmargk8497)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAmmargk8497&show_icons=true&theme=radical)
 
 
 
