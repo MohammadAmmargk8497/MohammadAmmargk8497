@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="1536" height="350" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/86f1d930-e442-4f79-a4e4-3dffccf58934" alt="my banner">
+  <img width="1536" height="330" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/86f1d930-e442-4f79-a4e4-3dffccf58934" alt="my banner">
 </p>
 
 
@@ -22,3 +22,4 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got a D in DBMS and I hate that subject
 
+![giphy](https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/8641ace6-d379-4c47-8c37-c3e8d3fc60a1)
