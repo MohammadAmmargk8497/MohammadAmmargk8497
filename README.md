@@ -2,8 +2,9 @@
 ![0272bb14-0d2a-48bf-928f-470fb0ca47e1](https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/86f1d930-e442-4f79-a4e4-3dffccf58934)
 
 
-<h2 style="text-align: center;">Your Heading Here</h2>
-
+<div style="text-align: center;">
+  <h2>Your Heading Here</h2>
+</div>
 
 
 
