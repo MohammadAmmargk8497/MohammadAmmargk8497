@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img width="1536" height="330" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/86f1d930-e442-4f79-a4e4-3dffccf58934" alt="my banner">
+  <img width="1536" height="330" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/7657fc0d-a750-458e-b6c4-2b21b19d6001" alt="my banner">
 </p>
+
 
 
 
