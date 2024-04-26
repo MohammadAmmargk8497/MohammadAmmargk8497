@@ -23,7 +23,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 - 📫 How to reach me: ammargk8497@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got a D in DBMS and I hate that subject
-You can replace `"Courier font"` with your desired text. This will render the text in Courier font in your README file on GitHub. Remember to preview your changes to ensure they display as expected.
+<pre style="font-family: Courier;">Courier font</pre>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAmmargk8497&show_icons=true&theme=radical)
 
 
