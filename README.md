@@ -23,7 +23,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 - 📫 How to reach me: ammargk8497@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got a D in DBMS and I hate that subject
-<span style="color: #f2cf4a; font-family: monospace; font-size: 2em;">MonoMono</span>
+<span style="font-family: Courier;">Text to display in Courier font.</span>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAmmargk8497&show_icons=true&theme=radical)
 
 
