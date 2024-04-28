@@ -14,7 +14,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 ### Know more about me :
 
-- 🔭 I’m currently working on ```Myself```
+- 🔭 I’m currently working on **```Myself```**
 - 🌱 I’m currently exploring ```Liquid Time-Constant Networks```
 - 👯 I’m looking to collaborate on anything that deals with ```AI``` and ```Robots```
 -   <img align="right" width="500" height="281" src="https://github.com/MohammadAmmargk8497/MohammadAmmargk8497/assets/75717701/8641ace6-d379-4c47-8c37-c3e8d3fc60a1"> I am actively      seeking ```Thesis based Masters``` position in ```AI/Autonomous Robotics``` 
