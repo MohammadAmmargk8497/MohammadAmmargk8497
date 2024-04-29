@@ -26,6 +26,76 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-238-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 49.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 94 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌆 Daytime                66 commits          ████████████░░░░░░░░░░░░░   46.81 % 
+🌃 Evening                42 commits          ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 37 commits          ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Sunday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
+Jupyter Notebook         4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MohammadAmmargk8497/MohammadAmmargk8497/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/04/2024 11:08:31 UTC
 <!--END_SECTION:waka-->
 
 
