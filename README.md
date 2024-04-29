@@ -26,13 +26,17 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-238-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-435.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 49.8 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2024
+> 🏆 95 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +47,21 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-🌆 Daytime                66 commits          ████████████░░░░░░░░░░░░░   46.81 % 
-🌃 Evening                42 commits          ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+🌞 Morning                32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+🌆 Daytime                67 commits          ████████████░░░░░░░░░░░░░   47.18 % 
+🌃 Evening                42 commits          ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 37 commits          ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Sunday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Monday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 37 commits          ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Sunday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 ```
 
 
@@ -67,9 +71,6 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
@@ -90,12 +91,8 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/MohammadAmmargk8497/MohammadAmmargk8497/main/assets/bar_graph.png)
-
-
- Last Updated on 29/04/2024 11:08:31 UTC
+ Last Updated on 29/04/2024 11:16:18 UTC
 <!--END_SECTION:waka-->
 
 
