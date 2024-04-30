@@ -25,6 +25,13 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 - ⚡ Fun fact: I got a D in DBMS and I hate that subject
 
 
+
+
+## My Stack
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,pytorch,apple,arduino,raspberrypi,ubuntu,ros,c,cpp,cmake,discord,docker,git,github,latex,md,notion,pycharm,stackoverflow,sklearn,tensorflow)](https://skillicons.dev)
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-287-blue)
 
