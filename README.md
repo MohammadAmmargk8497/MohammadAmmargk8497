@@ -47,7 +47,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-193-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436.2%20thousand%20lines%20of%20code-blue)
 
@@ -88,15 +88,14 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   34 mins             ███████████████████████░░   91.76 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   16 mins             █████████████████████░░░░   84.64 % 
+Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-ROV1.0                   37 mins             █████████████████████████   100.00 % 
+ROV1.0                   19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +110,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2024 18:36:34 UTC
+ Last Updated on 08/05/2024 18:36:44 UTC
 <!--END_SECTION:waka-->
 
 
