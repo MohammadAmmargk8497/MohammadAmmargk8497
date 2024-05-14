@@ -47,7 +47,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436.2%20thousand%20lines%20of%20code-blue)
 
@@ -109,7 +109,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2024 18:36:08 UTC
+ Last Updated on 14/05/2024 18:36:38 UTC
 <!--END_SECTION:waka-->
 
 
