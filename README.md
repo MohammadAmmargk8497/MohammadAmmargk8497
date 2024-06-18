@@ -88,14 +88,13 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   99.70 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rpunitresultextractor_imp9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +109,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2024 18:37:30 UTC
+ Last Updated on 18/06/2024 18:38:32 UTC
 <!--END_SECTION:waka-->
 
 
