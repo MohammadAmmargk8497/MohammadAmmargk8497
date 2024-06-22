@@ -88,13 +88,14 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             ████████████████████████░   94.86 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +110,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2024 18:38:07 UTC
+ Last Updated on 22/06/2024 18:36:17 UTC
 <!--END_SECTION:waka-->
 
 
