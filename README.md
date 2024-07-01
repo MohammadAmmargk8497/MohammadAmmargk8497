@@ -55,6 +55,8 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 > 📦 49.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -88,13 +90,13 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        █████████████████████████   100.00 % 
+Python                   43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Workshop                 1 hr 19 mins        █████████████████████████   100.00 % 
+Workshop                 43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +111,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2024 18:37:29 UTC
+ Last Updated on 01/07/2024 18:38:12 UTC
 <!--END_SECTION:waka-->
 
 
