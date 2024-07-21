@@ -36,7 +36,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 - 💬 Ask me about **```CNNs```**
 - 📫 How to reach me: **```ammargk8497@gmail.com```**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got a D in DBMS and I hate that subject
+- ⚡ Fun fact: I love Urdu Poetry!
 
 
 
