@@ -47,13 +47,15 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-755.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 129.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 150 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,17 +90,17 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 34 mins       ███████████████████████░░   93.72 % 
-CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   5 hrs 7 mins        ███████████████████████░░   93.83 % 
+CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-GPS_Spoofing_RL          4 hrs 58 mins       █████████████████████░░░░   83.70 % 
-Hierarchical_RL          58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+GPS_Spoofing_RL          4 hrs 29 mins       █████████████████████░░░░   82.25 % 
+Hierarchical_RL          58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 
 💻 Operating System: 
-Linux                    5 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +115,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2024 18:41:34 UTC
+ Last Updated on 11/09/2024 18:41:26 UTC
 <!--END_SECTION:waka-->
 
 
