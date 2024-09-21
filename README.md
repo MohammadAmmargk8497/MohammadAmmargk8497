@@ -55,8 +55,6 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 > 📦 129.1 kB Used in GitHub's Storage 
  > 
-> 🏆 158 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -118,7 +116,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2024 18:42:22 UTC
+ Last Updated on 21/09/2024 18:40:11 UTC
 <!--END_SECTION:waka-->
 
 
