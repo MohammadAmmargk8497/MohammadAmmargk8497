@@ -47,15 +47,13 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-759.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 129.2 kB Used in GitHub's Storage 
- > 
-> 🏆 170 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,14 +88,14 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 31 mins       █████████████████████████   99.42 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python                   4 hrs 23 mins       █████████████████████████   99.53 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-GPS_Spoofing_RL          3 hrs 32 mins       █████████████████████████   100.00 % 
+GPS_Spoofing_RL          4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +110,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2024 18:42:20 UTC
+ Last Updated on 09/11/2024 18:39:42 UTC
 <!--END_SECTION:waka-->
 
 
