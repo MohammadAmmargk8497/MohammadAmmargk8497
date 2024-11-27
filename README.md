@@ -55,6 +55,8 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 > 📦 129.2 kB Used in GitHub's Storage 
  > 
+> 🏆 181 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -95,7 +97,7 @@ Other                    0 secs              ░░░░░░░░░░░�
 🐱‍💻 Projects: 
 GPS_Spoofing_RL          3 hrs 8 mins        ███████████████████░░░░░░   74.37 % 
 Hierarchical_RL          41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-ICLR                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+ICLR                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 💻 Operating System: 
 Linux                    3 hrs 8 mins        ███████████████████░░░░░░   74.37 % 
@@ -115,7 +117,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 18:44:49 UTC
+ Last Updated on 27/11/2024 18:45:37 UTC
 <!--END_SECTION:waka-->
 
 
