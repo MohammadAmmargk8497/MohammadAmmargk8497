@@ -43,7 +43,7 @@ Hey, I am Ammar a Deep Learning enthusiast with a keen interest in Robotics. I a
 
 ### My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,py,pytorch,apple,arduino,raspberrypi,ubuntu,ros,c,cpp,cmake,discord,docker,git,github,latex,md,notion,pycharm,stackoverflow,sklearn,tensorflow&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,pytorch,apple,arduino,raspberrypi,ubuntu,ros,c,cpp,cmake,discord,docker,git,github,latex,md,notion,pycharm,stackoverflow,sklearn,langchain,tensorflow&perline=6)](https://skillicons.dev)
 
 
 <!--START_SECTION:waka-->
